@@ -54,9 +54,9 @@ I'm a **Full-Stack Developer** with a sharp focus on building high-performance w
 |---|---|---|---|
 | 🎮 **Setup Game** | WordPress · WooCommerce · Bricks | Full e-commerce gaming store, sub-1.5s load | [setupgame.ma](https://setupgame.ma) |
 | 🏠 **AMG Building** | WordPress · ACF Pro · PHP | Custom real-estate property portal | [amg-building.com](https://amg-building.com) |
+| 🌿 **Essences d'Agdal** | WordPress · WooCommerce · PHP | Premium Moroccan perfume e-commerce brand | [essencesagdal.com](https://essencesagdal.com) |
 | 🚀 **Alphafoundr** | WordPress · GSAP · ScrollTrigger | Startup platform with scroll animations | [alphafoundr.com](https://alphafoundr.com) |
 | 📈 **Creative X Growth** | WordPress · PHP · MySQL | B2B digital agency site with lead funnels | [creativexgrowth.com](https://creativexgrowth.com) |
-| 🏍️ **Ride Me Bali** | WordPress · Bricks Builder | Mobile-first motorcycle rental platform | [rmb.alphafoundr.co](https://rmb.alphafoundr.co) |
 
 ---
 
