@@ -64,10 +64,10 @@ I'm a **Full-Stack Developer** with a sharp focus on building high-performance w
 
 <div align="center">
 
-[![gsap-scroll-animations](https://github-readme-stats.vercel.app/api/pin/?username=Corenzo05&repo=gsap-scroll-animations&theme=tokyonight&hide_border=true)](https://github.com/Corenzo05/gsap-scroll-animations)
-[![php-mysql-rest-api](https://github-readme-stats.vercel.app/api/pin/?username=Corenzo05&repo=php-mysql-rest-api&theme=tokyonight&hide_border=true)](https://github.com/Corenzo05/php-mysql-rest-api)
-[![node-express-rest-api](https://github-readme-stats.vercel.app/api/pin/?username=Corenzo05&repo=node-express-rest-api&theme=tokyonight&hide_border=true)](https://github.com/Corenzo05/node-express-rest-api)
-[![wordpress-custom-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=Corenzo05&repo=wordpress-custom-toolkit&theme=tokyonight&hide_border=true)](https://github.com/Corenzo05/wordpress-custom-toolkit)
+[![gsap-scroll-animations](https://github-readme-stats.vercel.app/api/pin/?username=soufiane-elfahfouhi&repo=gsap-scroll-animations&theme=tokyonight&hide_border=true)](https://github.com/soufiane-elfahfouhi/gsap-scroll-animations)
+[![php-mysql-rest-api](https://github-readme-stats.vercel.app/api/pin/?username=soufiane-elfahfouhi&repo=php-mysql-rest-api&theme=tokyonight&hide_border=true)](https://github.com/soufiane-elfahfouhi/php-mysql-rest-api)
+[![node-express-rest-api](https://github-readme-stats.vercel.app/api/pin/?username=soufiane-elfahfouhi&repo=node-express-rest-api&theme=tokyonight&hide_border=true)](https://github.com/soufiane-elfahfouhi/node-express-rest-api)
+[![wordpress-custom-toolkit](https://github-readme-stats.vercel.app/api/pin/?username=soufiane-elfahfouhi&repo=wordpress-custom-toolkit&theme=tokyonight&hide_border=true)](https://github.com/soufiane-elfahfouhi/wordpress-custom-toolkit)
 
 </div>
 
@@ -77,8 +77,8 @@ I'm a **Full-Stack Developer** with a sharp focus on building high-performance w
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Corenzo05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corenzo05&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soufiane-elfahfouhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-elfahfouhi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
